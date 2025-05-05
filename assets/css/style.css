@@ -43,7 +43,7 @@ body{
 	font-size:16px;
 	color: #676a81;
 	background: #fff;
-    /* max-width:1920px; */
+    max-width:100%;
     margin:0 auto;
 	overflow-x:hidden;
 }
@@ -227,7 +227,7 @@ nav.navbar.bootsnav .navbar-toggle i{
     letter-spacing: 1px;
 }
 .header-text a {
-    width: 200px;
+    /* width: 200px; */
     height: 60px;
     line-height: 60px;
     border-radius: 3px;
@@ -388,9 +388,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*-------------------------------------
         6.  Skills
 --------------------------------------*/
-.skills {
-    
-}
 .skill-content{padding: 50px 0 80px;}
 .single-skill-content{padding-top: 100px;}
 .section-heading h2 {
@@ -807,9 +804,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*.contact-add-info */
 
 /*hm-foot-icon*/
-.hm-foot-icon {
-   
-}
 .hm-foot-icon ul li{float:left;}
 .hm-foot-icon ul li>a {
     color: #636a82;
@@ -837,7 +831,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     width: 31%;
     margin:20px 0 20px 10px;
     height: 200px;
-    
+
 }
 
 

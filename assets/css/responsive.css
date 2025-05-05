@@ -43,6 +43,12 @@
 	.timeline-content span>i{left: 0%;top: -33%;}
 	.experience-time span>i {left: -6%;top: 6%;}
 	.main-timeline:before {left:0.4%;}
+		.Achievement img {
+			width: 48%;
+			margin: 20px 0 20px 10px;
+			height: 200px;
+	
+		}
 
 	.single-horizontal-timeline .experience-time,.single-horizontal-timeline .timeline-content {margin: 0;}
 }/*max-width:991px*/
