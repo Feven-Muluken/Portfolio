@@ -52,6 +52,12 @@
 		}
 
 	.single-horizontal-timeline .experience-time,.single-horizontal-timeline .timeline-content {margin: 0;}
+
+	.welcome-hero {
+		background-size: cover;
+		background-position: center 0;
+
+	}
 }/*max-width:991px*/
 
 @media screen and (max-width:768px){
