@@ -195,7 +195,7 @@ nav.navbar.bootsnav .navbar-toggle i{
     justify-content: center;
     position:relative;
     background:url(../images/about/Picsart_25-05-03_15-58-31-323.jpg)no-repeat;
-    background-size:cover;
+    background-size:100% 100%;
     background-position: center 0;
     height:890px;
 }
