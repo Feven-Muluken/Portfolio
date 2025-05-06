@@ -688,9 +688,9 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 --------------------------------------*/
 .clients {padding-top: 50px;}
 .clients-area {
-    display: flex;
     align-items: center;
-    height: 250px;
+    /* height: 250px; */
+    margin: 20px 0;
 }
 .clients-area .item {padding: 0 25px;}
 
@@ -698,7 +698,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     display: block;
     width: 100%;
     height: auto;
-    border-radius:0;
+    border-radius:0; 
 }
 
 /*-------------------------------------
@@ -823,17 +823,24 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     text-transform: capitalize;
     padding: 38px 0;
 }
-.hm-footer-copyright p a {color: #888ea5;}
+.hm-footer-copyright p {color: #888ea5;}
+.footer-copyright a{
+    color: #247AE9;
+    font-size: 15px;
+    text-decoration: underline;
+}  
 /*-------------------------------------
         12. Achievement
 --------------------------------------*/
 .Achievement img{
     width: 31%;
-    margin:20px 0 20px 10px;
+    margin:20px auto 20px 10px;
     height: 200px;
 
 }
-
+.Achievement .container .text-center{
+    margin: 20px auto;
+}
 
 
 /*===============================
