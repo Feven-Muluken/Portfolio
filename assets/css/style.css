@@ -227,7 +227,7 @@ nav.navbar.bootsnav .navbar-toggle i{
     letter-spacing: 1px;
 }
 .header-text a {
-    /* width: 200px; */
+    width: 200px;
     height: 60px;
     line-height: 60px;
     border-radius: 3px;
