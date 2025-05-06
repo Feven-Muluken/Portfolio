@@ -46,7 +46,7 @@
 		.Achievement img {
 			width: 48%;
 			margin: 20px 0 20px 10px;
-			height: 200px;
+			height: 150px;
 			
 	
 		}
@@ -56,7 +56,7 @@
 	.welcome-hero {
 		background-size: cover;
 		background-position: center 0;
-
+		height: 890px;
 	}
 }/*max-width:991px*/
 
